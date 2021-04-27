@@ -1,6 +1,6 @@
 # Aq1.5.hercules
 
-Regional heat flow model of Hercules Dome region, West Antarctica
+Regional heat flow model of Hercules Dome region, West Antarctica.
 
 ---
 
