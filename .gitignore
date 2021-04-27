@@ -1,0 +1,10 @@
+# Ignore everything:
+*
+
+# Except (!)
+!README.md
+!LICENSE
+!.gitignore
+!*.pdf
+!code/
+!data/
