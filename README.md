@@ -8,5 +8,4 @@ Presented at [Hercules Dome Ice core workshop](https://herculesdome.org/about), 
 
 ---
 
-Further details provided in [Stål et al, 2021, G-cubed](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GC009428). 
-
+Further details regarding the empiric heat flow model provided in [Stål et al, 2021, G-cubed](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GC009428). 
