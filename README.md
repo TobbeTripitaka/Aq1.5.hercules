@@ -12,4 +12,4 @@ Further details regarding the empiric heat flow model provided in [Stål et al, 
 
 Code and continental scale maps are availible here: [Aq1 repo](https://github.com/TobbeTripitaka/Aq1)
 
-![Aq.hercules](Slide1.png)
+![Aq.hercules](hercules.png)
